@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BO3Dll", "BO3Dll.vcxproj", "{CB41022E-268D-453E-A0A9-281340A1B3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Debug|x64.ActiveCfg = Debug|x64
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Debug|x64.Build.0 = Debug|x64
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Debug|x86.Build.0 = Debug|Win32
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Release|x64.ActiveCfg = Release|x64
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Release|x64.Build.0 = Release|x64
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Release|x86.ActiveCfg = Release|Win32
+		{CB41022E-268D-453E-A0A9-281340A1B3D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E21982-26FE-487C-AF2A-6224EE3C66E6}
+	EndGlobalSection
+EndGlobal
